@@ -1,5 +1,5 @@
 streamlit
+cryptography
 pillow
 numpy
-opencv-python
-cryptography
+opencv-python-headless
